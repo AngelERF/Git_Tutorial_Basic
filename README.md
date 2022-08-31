@@ -3,3 +3,5 @@ Contiene el ejercicio básico para aprender repositorios con Git y GitHub en el 
 
 Esta línea representa la modificación del archivo README.md desde el editor web de GitHub.
 También aprendimos que el archivo README.md es compatible con [MarkDown](https://stackedit.io/)
+
+Esta línea representa el segundo commit realizado vía web. Mi perfil de GitHub es el siguiente. [Angel](https://github.com/AngelERF)
