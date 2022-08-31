@@ -11,3 +11,5 @@ Esta línea representa el primer commit realizado por terminal. Este repositorio
 Esta línea representa el segundo commit realizado por terminal. Además se muestra el uso del Stagging con git add. En este commit no se mostrará el archivo Texto.txt
 
 Esta línea representa el tercer commit realizado por terminal. Se agrega un archivo nuevo: Texto.txt.
+
+Esta línea representa el cuarto commit realizado por terminal. Ejemplifica el Pull en GitHub Desktop.
