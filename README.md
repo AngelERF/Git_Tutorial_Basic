@@ -5,3 +5,5 @@ Esta línea representa la modificación del archivo README.md desde el editor we
 También aprendimos que el archivo README.md es compatible con [MarkDown](https://stackedit.io/)
 
 Esta línea representa el segundo commit realizado vía web. Mi perfil de GitHub es el siguiente. [Angel](https://github.com/AngelERF)
+
+Esta línea representa el primer commit realizado por terminal. Este repositorio también se clonó por terminal.
